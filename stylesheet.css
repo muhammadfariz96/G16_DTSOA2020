@@ -189,10 +189,10 @@ header {
 
 .profil-icon img {
   width: 80%;
-  transition: all 2s;
+  transition: width 2s;
 }
 
-.profil img:hover {
+img:hover {
   width: 100%;
 }
 
