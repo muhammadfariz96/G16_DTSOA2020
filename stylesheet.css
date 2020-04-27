@@ -138,7 +138,7 @@ header {
   color: grey;
   display: block;
   float: left;
-  transition: all 0.5s;
+  transition: all 2s;
   font-size: 22px;
 }
 
@@ -189,7 +189,7 @@ header {
 
 .profil-icon img {
   width: 80%;
-  transition: width 2s;
+  transition: all 2s;
 }
 
 header img:hover {
@@ -280,7 +280,7 @@ li {
 footer {
   height: 140px;
   background-color: #2f5167;
-  color: white;
+  color: #white;
 }
 
 .footer-left {
