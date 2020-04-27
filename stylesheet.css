@@ -192,7 +192,7 @@ header {
   transition: width 2s;
 }
 
-img:hover {
+header img:hover {
   width: 100%;
 }
 
