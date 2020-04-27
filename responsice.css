@@ -1,0 +1,130 @@
+/* Untuk Tablet */
+@media all and (max-width: 1000px) {
+
+
+  .profil {
+    width: 50%;
+    margin-bottom: 50px
+  }
+
+  .top-wrapper {
+    padding: 110px 0 70px 10px;
+    background-image: url(img/bgheader2.png);
+	height: 550px;
+  }
+
+  .top-wrapper h1 {
+    font-size: 32px;
+  }
+
+  .top-wrapper p {
+    opacity: 0.7;
+    margin-bottom: 5px;
+    font-size: 17px;
+  }
+
+  .heading h2 {
+    font-size: 20px;
+  }
+
+  .header-right {
+    margin-right: 2px;
+  }
+  
+  .contentKP {
+    width: 90%;
+}
+}
+
+/* Untuk Smartphone */
+@media all and (max-width: 670px) {
+  .lesson {
+    width: 100%;
+  }
+
+  .profil {
+    width: 100%;
+    margin-bottom: 50px
+  }
+
+
+  .btn {
+    width: 100%;
+  }
+
+  .signup {
+	margin-top: 10px;
+  }
+  .btn-wrapper{
+	text-align: center;
+  }
+
+  .facebook {
+    margin-bottom: 10px;
+  }
+
+  .top-wrapper {
+    text-align: center;
+	background-image: url(img/bgheader.png);
+	padding-top: 110px;
+	padding-bottom: 20px;
+  }
+
+  .header-right{
+    display: none;
+  }
+
+  .menuicon {
+    display: block;
+  }
+
+  .top-wrapper h1 {
+    font-size: 24px;
+    line-height: 20px;
+  }
+
+  .top-wrapper p {
+    font-size: 14px;
+    line-height: 20px;
+	margin-bottom: 10px;
+  }
+
+  .profil-wrapper {
+	font-size: 12px;
+  }
+
+  .motto-wrapper {
+	font-size: 12px;
+  }
+
+  .kesan-wrapper {
+	font-size: 12px;
+  }
+
+  .contentKP {
+    width: 90%;
+
+}
+
+footer{
+  text-align: center;
+}
+
+footer img{
+  width: 75px;
+}
+
+footer h4{
+  font-size: 15px;
+}
+
+footer p{
+  font-size: 10px;
+}
+
+
+.footer-left,.footer-right{
+  float: none;
+  padding: 10px;
+}
+}
