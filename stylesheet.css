@@ -169,6 +169,10 @@ header {
   color: #5f5d60;
 }
 
+header img:hover {
+  width: 100%;
+}
+
 .content-main {
   height: 580px;
   text-align: center;
@@ -192,7 +196,7 @@ header {
   transition: width 2s;
 }
 
-img:hover {
+.profil img:hover {
   width: 100%;
 }
 
